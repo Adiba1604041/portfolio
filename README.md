@@ -15,5 +15,22 @@ CGPA: 3.71/4.00
 
 
 ##  Work Experience
+Lecturer  
+Department of Computer Science and Engineering, Southern University Bangladesh  
+ September 5, 2022– December 2, 2022
+ • Courses Instructed: Data Structure, Data Structure Laboratory, Object Oriented Programming, Object Ori
+ented Programming Laboratory, Numerical Methods, Numerical Methods Laboratory.
+ Premier University
+ Lecturer, Department of Computer Science and Engineering
+ Chattogram, Bangladesh
+ Dec 4, 2022– Present
+ • Courses Instructed: Structured Programming, Structured Programming Laboratory, Data Structure, Data
+ Structure Laboratory, Theory of Computation, Digital Electronics Laboratory.
+ • Other Responsibilities:
+ 1. Thesis supervision
+ 2. Advisor of a running batch
+ 3. Mentor, IEEE Student Branch, Premier University
+ 4. Exam committee member
+ 5. Class routine and exam seat plan design.
 
 
