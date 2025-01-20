@@ -38,7 +38,7 @@ Southern University Bangladesh, Chattogram, Bangladesh
  **Frameworks :** React Native, ReactJS  
  **ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas  
 ##  Academic Projects 
-<div style="text-align: justify;">
+
  **A Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(LtR) Algorithm**  
  • A web application that provides search result of a user query in Bangla in a particular ranked order. This project is
  a combination of ML, NLP, Web crawling. Applied the Point-wise Approach of Learn to Rank Algorithm instead of
@@ -58,4 +58,4 @@ Southern University Bangladesh, Chattogram, Bangladesh
  Emergency Alarm for Elderly People (Android Application)
  • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.  
  **Language:** Java, **IDE:** Android Studio
-</div>  
+
