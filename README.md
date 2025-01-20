@@ -39,19 +39,18 @@ Southern University Bangladesh, Chattogram, Bangladesh
  **Frameworks:** React Native, ReactJS  
  **ML/NLP Libraries:** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas  
 ##  Academic Projects  
- A Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(LtR) Algorithm
- • Aweb application that provides search result of a user query in Bangla in a particular ranked order. This project is
+ **A Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(LtR) Algorithm**  
+ • A web application that provides search result of a user query in Bangla in a particular ranked order. This project is
  a combination of ML, NLP, Web crawling. Applied the Point-wise Approach of Learn to Rank Algorithm instead of
- using the conventional BM25 function.
+ using the conventional BM25 function.  
  Language: Python, HTML, CSS, DB: MySQL IDE: PyCharm Others: Flask API, Google Colab  
-
-Heart Disease Prediction Using Machine Learning Algorithms
+ **Heart Disease Prediction Using Machine Learning Algorithms**  
  • Applied machine learning classifiers to implement a heart disease prediction model using ECG dataset.
  Website for High School Science Contents
  • Awebsite for high school students who can easily get guideline to learn science topics with the help of the uploaded
  contents and interact through the comment section.
  Language: HTML, CSS, PHP, DB: MySQL Platforms: Atom, XAMPP
- Azheimer’s Disease Prediction App (Android Application)
+ **Azheimer’s Disease Prediction App (Android Application)**
  • An android app that predicts the existence of alzheimer’s disease based on user’s symptoms.
  IDE: VS code, Jupyter Notebook Framework: React Native DB: Firebase
  Emergency Alarm for Elderly People (Android Application)
