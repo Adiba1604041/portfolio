@@ -1,10 +1,2 @@
-nav:
-  - name: Home
-    link: /
-  - name: About
-    link: /about/
-  - name: Projects
-    link: /projects/
-
 title: Adiba Ibnat Hossain
 theme: jekyll-theme-minimal
