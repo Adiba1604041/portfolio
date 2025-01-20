@@ -29,8 +29,11 @@ Southern University Bangladesh, Chattogram, Bangladesh
 <div style="text-align: justify;">
  • Adiba Ibnat Hossain, Sabitri Sikder, Annesha Das, and Ashim Dey, ”Applying Machine Learning Classifiers on ECG Dataset for Predicting Heart Disease”, In 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), pages 1–6, 2021. (Link)
 </div>   
-<br>
+<br>  
 
+## Poster Presentation  
+Adiba Ibnat Hossain, Md Sabir Hossain, ”Freelancer Assistance Using Job Sequencing Algorithm”, International Conference on Natural Science & Technology(ICNST 2019). Published in the book of abstracts.
+<br>
 ##  Skills
  **✦ Programming Languages :** C, C++, Java, Python  
  **✦ Web Development :** HTML, CSS, PHP, Javascript, MySQL, Firebase, Flask  
