@@ -67,4 +67,8 @@ Adiba Ibnat Hossain, Md Sabir Hossain, ”Freelancer Assistance Using Job Sequen
  **◯ Emergency Alarm for Elderly People (Android Application)**  
  • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.  
  **Language:** Java, **IDE:** Android Studio
+ <br>
+
+ ## Supervised Projects  
+ **◯ CONFER: A Blood Donation Recommendation System**
 
