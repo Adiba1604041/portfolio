@@ -12,8 +12,7 @@ CGPA: 4.00/4.00
 **Chittagong University of Engineering & Technology (CUET)**  
 B.Sc. in Computer Science and Engineering (August 2022)  
 CGPA: 3.71/4.00  
-
-  
+<br> 
 ##  Work Experience  
 **Lecturer on Study Leave (Dec 4, 2022– Present)**  
 Department of Computer Science and Engineering,  
@@ -22,7 +21,7 @@ Premier University, Chattogram, Bangladesh
 **Lecturer (September 5, 2022– December 2, 2022)**  
 Department of Computer Science and Engineering,  
 Southern University Bangladesh, Chattogram, Bangladesh  
-  
+<br> 
 ##  Publications  
 <div style="text-align: justify;">
  • Adiba Ibnat Hossain and Asaduzzaman, ” Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(Ltr) Algorithm”, In 2022 IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), pages 227–232, 2022.. (Link) </div>   
@@ -38,7 +37,8 @@ Southern University Bangladesh, Chattogram, Bangladesh
  **Database :** MySQL  
  **Frameworks :** React Native, ReactJS  
  **ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas  
-##  Academic Projects  
+##  Academic Projects 
+<div style="text-align: justify;">
  **A Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(LtR) Algorithm**  
  • A web application that provides search result of a user query in Bangla in a particular ranked order. This project is
  a combination of ML, NLP, Web crawling. Applied the Point-wise Approach of Learn to Rank Algorithm instead of
@@ -58,4 +58,4 @@ Southern University Bangladesh, Chattogram, Bangladesh
  Emergency Alarm for Elderly People (Android Application)
  • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.
  Language: Java, IDE: Android Studio
-
+</div>  
