@@ -24,7 +24,8 @@ Department of Computer Science and Engineering,
 Southern University Bangladesh, Chattogram, Bangladesh  
   
 ##  Publications  
+<div style="text-align: justify;">
  • Adiba Ibnat Hossain and Asaduzzaman, ” Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(Ltr) Algorithm”, In 2022 IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), pages 227–232, 2022.. (Link)  
  
  • Adiba Ibnat Hossain, Sabitri Sikder, Annesha Das, and Ashim Dey, ”Applying Machine Learning Classifiers on ECG Dataset for Predicting Heart Disease”, In 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), pages 1–6, 2021. (Link)
-
+</div>  
