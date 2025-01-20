@@ -33,10 +33,10 @@ Southern University Bangladesh, Chattogram, Bangladesh
 
 ##  Skills
  **✦ Programming Languages :** C, C++, Java, Python  
- **⬛ Web Development :** HTML, CSS, PHP, Javascript, MySQL, Firebase, Flask  
- **⬛ Database :** MySQL  
- **⬛ Frameworks :** React Native, ReactJS  
- **⬛ ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas  
+ **✦ Web Development :** HTML, CSS, PHP, Javascript, MySQL, Firebase, Flask  
+ **✦ Database :** MySQL  
+ **✦ Frameworks :** React Native, ReactJS  
+ **✦ ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas  
  <br>
 ##  Academic Projects 
 
