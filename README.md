@@ -15,7 +15,8 @@ CGPA: 3.71/4.00
 
 ##  Work Experience  
 **Lecturer on Study Leave (Dec 4, 2022– Present)**  
-Department of Computer Science and Engineering, Premier University, Chattogram, Bangladesh  
+Department of Computer Science and Engineering,  
+Premier University, Chattogram, Bangladesh  
 • Courses Instructed: Structured Programming, Structured Programming Laboratory, Data Structure, Data Structure Laboratory, Theory of Computation, Digital Electronics Laboratory.  
 • Other Responsibilities:
  1. Thesis supervision
@@ -25,6 +26,7 @@ Department of Computer Science and Engineering, Premier University, Chattogram, 
  5. Class routine and exam seat plan design.
 
 **Lecturer (September 5, 2022– December 2, 2022)**  
-Department of Computer Science and Engineering, Southern University Bangladesh, Chattogram, Bangladesh  
+Department of Computer Science and Engineering,  
+Southern University Bangladesh, Chattogram, Bangladesh  
 • Courses Instructed: Data Structure, Data Structure Laboratory, Object Oriented Programming, Object Oriented Programming Laboratory, Numerical Methods, Numerical Methods Laboratory.  
 
