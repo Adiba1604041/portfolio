@@ -5,8 +5,10 @@ I am a PhD student in Computer Science at Northern Illinois University. My resea
 
 
 ## Education
+**Northern Illinois University**  
+PhD in Computer Science; CGPA: 4.00/4.00  
+
 **Chittagong University of Engineering & Technology (CUET)**  
 B.Sc. in Computer Science and Engineering; CGPA: 3.71/4.00
 
-**Northern Illinois University**  
-PhD in Computer Science; CGPA: 4.00/4.00
+
