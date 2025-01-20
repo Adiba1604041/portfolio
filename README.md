@@ -1,4 +1,5 @@
 # Hi, I'm Adiba Ibnat Hossain
+
 <div style="text-align: justify;">
 I am a PhD student in Computer Science at Northern Illinois University. My research interest encompasses the fields of Natural Language Processing, Machine Learning and Data Science. I'm passionate in solving texual data-driven problems using Large Language Models. I enjoy exploring innovative technologies that can make a meaningful impact and bridge the gap between academic research and real-world applications.
 </div>
@@ -18,7 +19,7 @@ CGPA: 3.71/4.00
 **Lecturer on Study Leave (Dec 4, 2022– Present)**  
 Department of Computer Science and Engineering,  
 Premier University, Chattogram, Bangladesh  
-<div style="text-align: justify;">
+
 • Courses Instructed: Structured Programming, Structured Programming Laboratory, Data Structure, Data Structure Laboratory, Theory of Computation, Digital Electronics Laboratory.  
 • Other Responsibilities:  
 1. Thesis supervision
@@ -26,7 +27,7 @@ Premier University, Chattogram, Bangladesh
 3. Mentor, IEEE Student Branch, Premier University
 4. Exam committee member
 5. Class routine and exam seat plan design.
-</div>
+
 **Lecturer (September 5, 2022– December 2, 2022)**  
 Department of Computer Science and Engineering,  
 Southern University Bangladesh, Chattogram, Bangladesh  
