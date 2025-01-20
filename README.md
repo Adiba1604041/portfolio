@@ -61,7 +61,7 @@ Southern University Bangladesh, Chattogram, Bangladesh
  • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.  
  **Language:** Java, **IDE:** Android Studio  
  
- **Emergency Alarm for Elderly People (Android Application)**  
+ **5. Emergency Alarm for Elderly People (Android Application)**  
  • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.
  **Language:** Java, **IDE:** Android Studio
 
