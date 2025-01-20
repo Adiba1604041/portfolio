@@ -14,3 +14,6 @@ B.Sc. in Computer Science and Engineering (August 2022)
 CGPA: 3.71/4.00
 
 
+##  Work Experience
+
+
