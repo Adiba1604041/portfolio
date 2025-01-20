@@ -33,11 +33,11 @@ Southern University Bangladesh, Chattogram, Bangladesh
 <br>
 
 ##  Skills
- **Programming Languages:** C, C++, Java, Python  
- **Web Development:** HTML, CSS, PHP, Javascript, MySQL, Firebase, Flask  
- **Database:** MySQL  
- **Frameworks:** React Native, ReactJS  
- **ML/NLP Libraries:** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas  
+ **Programming Languages :** C, C++, Java, Python  
+ **Web Development :** HTML, CSS, PHP, Javascript, MySQL, Firebase, Flask  
+ **Database :** MySQL  
+ **Frameworks :** React Native, ReactJS  
+ **ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas  
 ##  Academic Projects  
  **A Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(LtR) Algorithm**  
  • A web application that provides search result of a user query in Bangla in a particular ranked order. This project is
