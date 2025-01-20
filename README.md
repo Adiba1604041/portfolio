@@ -70,5 +70,6 @@ Adiba Ibnat Hossain, Md Sabir Hossain, ”Freelancer Assistance Using Job Sequen
  <br>
 
  ## Supervised Projects  
- **◯ CONFER: A Blood Donation Recommendation System**
+ **◯ CONFER: A Blood Donation Recommendation System**  
+ **◯ Leveraging Transformer Language Models for Title Generation in Scientific Articles**
 
