@@ -3,6 +3,7 @@
 I am a PhD student in Computer Science at Northern Illinois University. My research interest encompasses the fields of Natural Language Processing, Machine Learning and Data Science. I'm passionate in solving texual data-driven problems using Large Language Models. I enjoy exploring innovative technologies that can make a meaningful impact and bridge the gap between academic research and real-world applications.
 </div>  
 
+  
 ## Education
 **Northern Illinois University**  
 PhD in Computer Science (August 2024 - Present)  
