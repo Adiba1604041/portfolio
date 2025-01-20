@@ -43,7 +43,7 @@ Southern University Bangladesh, Chattogram, Bangladesh
  • A web application that provides search result of a user query in Bangla in a particular ranked order. This project is
  a combination of ML, NLP, Web crawling. Applied the Point-wise Approach of Learn to Rank Algorithm instead of
  using the conventional BM25 function.  
- **Language:** Python, HTML, CSS, DB: MySQL IDE: PyCharm Others: Flask API, Google Colab  
+ **Language:** Python, HTML, CSS, **DB:** MySQL **IDE:** PyCharm **Others:** Flask API, Google Colab  
  
  **Heart Disease Prediction Using Machine Learning Algorithms**  
  • Applied machine learning classifiers to implement a heart disease prediction model using ECG dataset.
