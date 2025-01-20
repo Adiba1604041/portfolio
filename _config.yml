@@ -1,4 +1,9 @@
 title: Adiba Ibnat Hossain
 logo: /assets/images/newdp.jpg
+social_links:
+  twitter: "https://twitter.com/your-username"
+  facebook: "https://facebook.com/your-username"
+  github: "https://github.com/your-username"
+  linkedin: "https://linkedin.com/in/your-username"
 email: hossainadiba123@gmail.com
 theme: jekyll-theme-minimal
