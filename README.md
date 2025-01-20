@@ -40,28 +40,28 @@ Southern University Bangladesh, Chattogram, Bangladesh
  <br>
 ##  Academic Projects 
 
- **1. A Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(LtR) Algorithm**  
+ **◯ A Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(LtR) Algorithm**  
  • A web application that provides search result of a user query in Bangla in a particular ranked order. This project is
  a combination of ML, NLP, Web crawling. Applied the Point-wise Approach of Learn to Rank Algorithm instead of
  using the conventional BM25 function.  
  **Language:** Python, HTML, CSS, **DB:** MySQL **IDE:** PyCharm **Others:** Flask API, Google Colab  
  
- **2. Heart Disease Prediction Using Machine Learning Algorithms**  
+ **◯ Heart Disease Prediction Using Machine Learning Algorithms**  
  • Applied machine learning classifiers to implement a heart disease prediction model using ECG dataset.  
  
- **3. Website for High School Science Contents**  
+ **◯ Website for High School Science Contents**  
  • Awebsite for high school students who can easily get guideline to learn science topics with the help of the uploaded
  contents and interact through the comment section.  
  **Language:** HTML, CSS, PHP, **DB:** MySQL **Platforms:** Atom, XAMPP  
  
- **4. Azheimer’s Disease Prediction App (Android Application)**  
+ **◯ Azheimer’s Disease Prediction App (Android Application)**  
  • An android app that predicts the existence of alzheimer’s disease based on user’s symptoms.
  IDE: VS code, Jupyter Notebook Framework: React Native DB: Firebase
  Emergency Alarm for Elderly People (Android Application)
  • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.  
  **Language:** Java, **IDE:** Android Studio  
  
- **5. Emergency Alarm for Elderly People (Android Application)**  
- • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.
+ **◯ Emergency Alarm for Elderly People (Android Application)**  
+ • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.  
  **Language:** Java, **IDE:** Android Studio
 
