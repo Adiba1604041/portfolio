@@ -49,7 +49,7 @@ Southern University Bangladesh, Chattogram, Bangladesh
  **Heart Disease Prediction Using Machine Learning Algorithms**  
  • Applied machine learning classifiers to implement a heart disease prediction model using ECG dataset.  
  
- **Website for High School Science Contents**
+ **Website for High School Science Contents**  
  • Awebsite for high school students who can easily get guideline to learn science topics with the help of the uploaded
  contents and interact through the comment section.  
  **Language:** HTML, CSS, PHP, **DB:** MySQL **Platforms:** Atom, XAMPP  
