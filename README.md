@@ -30,3 +30,10 @@ Southern University Bangladesh, Chattogram, Bangladesh
 <div style="text-align: justify;">
  • Adiba Ibnat Hossain, Sabitri Sikder, Annesha Das, and Ashim Dey, ”Applying Machine Learning Classifiers on ECG Dataset for Predicting Heart Disease”, In 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), pages 1–6, 2021. (Link)
 </div>   
+
+##  Skills
+ Programming Languages: C, C++, Python  
+ Web Development: HTML, CSS, PHP, Javascript, MySQL, Firebase, Flask  
+ Database: MySQL  
+ Frameworks: React Native, ReactJS  
+ ML/NLP Libraries: BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas
