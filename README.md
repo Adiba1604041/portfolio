@@ -7,11 +7,9 @@ I am a PhD student in Computer Science at Northern Illinois University. My resea
 ## Education
 **Northern Illinois University**  
 PhD in Computer Science (August 2024 - Present)  
-CGPA: 4.00/4.00  
 
 **Chittagong University of Engineering & Technology (CUET)**  
 B.Sc. in Computer Science and Engineering (August 2022)  
-CGPA: 3.71/4.00  
 <br> 
 ##  Work Experience  
 **Lecturer on Study Leave (Dec 4, 2022– Present)**  
