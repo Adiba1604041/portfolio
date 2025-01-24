@@ -12,6 +12,10 @@ PhD in Computer Science (August 2024 - Present)
 B.Sc. in Computer Science and Engineering (August 2022)  
 <br> 
 ##  Work Experience  
+**Teaching Assistant**  
+Department of Computer Science,  
+Northern Illinois University, Dekalb, Illinois  
+
 **Lecturer on Study Leave (Dec 4, 2022– Present)**  
 Department of Computer Science and Engineering,  
 Premier University, Chattogram, Bangladesh  
