@@ -73,8 +73,11 @@ Classifiers and LLM**
  <br>
 
 ## Supervised Projects  
+ ◯ CONFER: A Blood Donation Recommendation System  
+ 
+ ◯ Leveraging Transformer Language Models for Title Generation in Scientific Articles  
+ 
+ ◯ Insights into Opinion Mining in Bengali: A Deep Learning Approach to Multi-class Sentiment Analysis of Facebook Comments  
+ 
  ◯ CONFER: A Blood Donation Recommendation System
- **◯ Leveraging Transformer Language Models for Title Generation in Scientific Articles**  
- **◯ Insights into Opinion Mining in Bengali: A Deep Learning Approach to Multi-class Sentiment Analysis of Facebook Comments**  
- **◯ CONFER: A Blood Donation Recommendation System**
 
