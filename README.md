@@ -44,7 +44,10 @@ Adiba Ibnat Hossain, Md Sabir Hossain, ”Freelancer Assistance Using Job Sequen
  **✦ ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas  
  <br>
 ##  Academic Projects 
-
+ **◯ Research Paper Subject Category Classification Using Traditional Classifiers and LLM**  
+ • Created a novel dataset and built some classification models to perform a comparative analysis among the models.  
+ **Language:** Python, **Platform:** Google Colab
+ 
  **◯ A Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(LtR) Algorithm**  
  • A web application that provides search result of a user query in Bangla in a particular ranked order. This project is
  a combination of ML, NLP, Web crawling. Applied the Point-wise Approach of Learn to Rank Algorithm instead of
@@ -69,11 +72,6 @@ Adiba Ibnat Hossain, Md Sabir Hossain, ”Freelancer Assistance Using Job Sequen
  **◯ Emergency Alarm for Elderly People (Android Application)**  
  • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.  
  **Language:** Java, **IDE:** Android Studio
-
- **◯ Research Paper Subject Category Classification Using Traditional
-Classifiers and LLM**  
- • Created a novel dataset and built some classification models to perform a comparative analysis among the models.  
- **Language:** Python, **Platform:** Google Colab
  <br>
 
 ## Supervised Projects  
