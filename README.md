@@ -34,7 +34,8 @@ Southern University Bangladesh, Chattogram, Bangladesh
 <br>  
 
 ## Poster Presentation  
-Adiba Ibnat Hossain, Md Sabir Hossain, ”Freelancer Assistance Using Job Sequencing Algorithm”, International Conference on Natural Science & Technology(ICNST 2019). Published in the book of abstracts.
+1. Adiba Ibnat Hossain, Hamed Alhoori, "From Pre-LLM to Post-LLM: A Quantitative Study of Hallucination in Research Papers Before and After the LLM Era", Midwest Speech and Language Days 2025 (MSLD 2025)
+2. Adiba Ibnat Hossain, Md Sabir Hossain, "Freelancer Assistance Using Job Sequencing Algorithm", International Conference on Natural Science & Technology(ICNST 2019). Published in the book of abstracts.
 <br>
 ##  Skills
  **✦ Programming Languages :** C, C++, Java, Python  
