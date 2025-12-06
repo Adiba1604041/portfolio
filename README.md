@@ -39,11 +39,11 @@ Southern University Bangladesh, Chattogram, Bangladesh
  • Adiba Ibnat Hossain, Miftahul Jannat Mokarrama and Hamed Alhoori , ”Quantifying Contextual Hallucinations in NLP Research Papers Before and After the LLM Era”, Accepted in  2nd International Workshop on Artificial Intelligence for the Science of Science (AI4SciSci'25) colocated with JCDL'25. </div>   
  <br>   
 <div style="text-align: justify;">
- • Adiba Ibnat Hossain and Asaduzzaman, ” Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(Ltr) Algorithm”, In 2022 IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), pages 227–232, 2022. <a href="URL_GOES_HERE" target="_blank">Paper Link</a>
+ • Adiba Ibnat Hossain and Asaduzzaman, ” Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(Ltr) Algorithm”, In 2022 IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), pages 227–232, 2022. <a href="https://ieeexplore.ieee.org/document/10151362" target="_blank">Link</a>
  </div>   
  <br>
 <div style="text-align: justify;">
- • Adiba Ibnat Hossain, Sabitri Sikder, Annesha Das, and Ashim Dey, ”Applying Machine Learning Classifiers on ECG Dataset for Predicting Heart Disease”, In 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), pages 1–6, 2021.
+ • Adiba Ibnat Hossain, Sabitri Sikder, Annesha Das, and Ashim Dey, ”Applying Machine Learning Classifiers on ECG Dataset for Predicting Heart Disease”, In 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), pages 1–6, 2021. <a href="URL_GOES_HERE" target="_blank">Paper Link</a>
 </div>   
 <br>  
 
