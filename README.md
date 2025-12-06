@@ -33,6 +33,12 @@ Southern University Bangladesh, Chattogram, Bangladesh
 <br> 
 ##  Publications  
 <div style="text-align: justify;">
+ • Adiba Ibnat Hossain}, Sagnik Ray Choudhury and Hamed Alhoori, ” SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing”, Accepted in International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025 (IJCNLP-AACL-2025) </div>   
+ <br>  
+<div style="text-align: justify;">
+ • Adiba Ibnat Hossain and Asaduzzaman, ” Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(Ltr) Algorithm”, In 2022 IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), pages 227–232, 2022.. (Link) </div>   
+ <br>   
+<div style="text-align: justify;">
  • Adiba Ibnat Hossain and Asaduzzaman, ” Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(Ltr) Algorithm”, In 2022 IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), pages 227–232, 2022.. (Link) </div>   
  <br>
 <div style="text-align: justify;">
