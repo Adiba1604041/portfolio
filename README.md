@@ -57,7 +57,7 @@ Southern University Bangladesh, Chattogram, Bangladesh
  <br>
  
 ## Award  
-Research Mentorship Training Award  
+** Research Mentorship Training Award**  
 Got selected for a competitive research mentorship training program and awarded a $500 stipend  
 Organizer: Office of Student Engagement and Experiential Learning, Northern Illinois University  
 
