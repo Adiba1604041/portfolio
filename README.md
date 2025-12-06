@@ -13,9 +13,9 @@ B.Sc. in Computer Science and Engineering (August 2022)
 <br> 
 ##  Work Experience 
 **Research Assistant**  
-Summer 2025
-DATA Laboratory
-Department of Computer Science,  
+Summer 2025  
+DATA Laboratory  
+Department of Computer Science,   
 Northern Illinois University, Dekalb, Illinois  
 
 **Teaching Assistant**  
