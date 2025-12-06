@@ -19,6 +19,7 @@ Department of Computer Science,
 Northern Illinois University, Dekalb, Illinois  
 
 **Teaching Assistant**  
+Fall 2024, Spring 2025, Fall 2025  
 Department of Computer Science,  
 Northern Illinois University, Dekalb, Illinois  
 
