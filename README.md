@@ -62,12 +62,12 @@ Got selected for a competitive research mentorship training program and awarded 
 Organizer: Office of Student Engagement and Experiential Learning, Northern Illinois University  
 
 ##  Skills
- **✦ Multi-agent Framework :** Autogen  
  **✦ Programming Languages :** C, C++, Java, Python  
  **✦ Web Development :** HTML, CSS, PHP, Javascript, MySQL, Firebase, Flask  
  **✦ Database :** MySQL  
  **✦ Frameworks :** React Native, ReactJS  
- **✦ ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas  
+ **✦ ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas 
+ **✦ Multi-agent Framework :** Autogen  
  <br>
 ##  Academic Projects
 **◯SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing**  
