@@ -11,7 +11,13 @@ PhD in Computer Science (August 2024 - Present)
 **Chittagong University of Engineering & Technology (CUET)**  
 B.Sc. in Computer Science and Engineering (August 2022)  
 <br> 
-##  Work Experience  
+##  Work Experience 
+**Research Assistant**
+Summer 2025
+DATA Laboratory
+Department of Computer Science,  
+Northern Illinois University, Dekalb, Illinois  
+
 **Teaching Assistant**  
 Department of Computer Science,  
 Northern Illinois University, Dekalb, Illinois  
