@@ -43,7 +43,7 @@ Southern University Bangladesh, Chattogram, Bangladesh
  </div>   
  <br>
 <div style="text-align: justify;">
- • Adiba Ibnat Hossain, Sabitri Sikder, Annesha Das, and Ashim Dey, ”Applying Machine Learning Classifiers on ECG Dataset for Predicting Heart Disease”, In 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), pages 1–6, 2021. <a href="URL_GOES_HERE" target="_blank">Paper Link</a>
+ • Adiba Ibnat Hossain, Sabitri Sikder, Annesha Das, and Ashim Dey, ”Applying Machine Learning Classifiers on ECG Dataset for Predicting Heart Disease”, In 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), pages 1–6, 2021. <a href="https://ieeexplore.ieee.org/document/9528169" target="_blank">Link</a>
 </div>   
 <br>  
 
