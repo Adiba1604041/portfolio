@@ -12,8 +12,7 @@ PhD in Computer Science (August 2024 - Present)
 B.Sc. in Computer Science and Engineering (August 2022)  
 <br> 
 ##  Work Experience 
-**Research Assistant**
-
+**Research Assistant**  
 Summer 2025
 DATA Laboratory
 Department of Computer Science,  
