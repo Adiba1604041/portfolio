@@ -57,6 +57,7 @@ Southern University Bangladesh, Chattogram, Bangladesh
  <br>
 
 ##  Skills
+ **✦ Multi-agent Framework :** Autogen  
  **✦ Programming Languages :** C, C++, Java, Python  
  **✦ Web Development :** HTML, CSS, PHP, Javascript, MySQL, Firebase, Flask  
  **✦ Database :** MySQL  
