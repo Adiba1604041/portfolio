@@ -73,9 +73,11 @@ Organizer: Office of Student Engagement and Experiential Learning, Northern Illi
 **◯SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing**  
 • A dataset for identifying hallucinations in academic text at three levels of granularity: token, sentence, and paragraph.  
 Language: Python, IDE: VS code  
+
 **◯Quantifying Contextual Hallucinations in NLP Research Papers Before and After the LLM Era**  
 • Detected and analyzed context inconsistency, a type of faithfulness hallucination in research papers across two distinc periods: before the advent of LLMs and after their integration.  
-Language: Python, IDE: VS code
+Language: Python, IDE: VS code  
+
  **◯ Research Paper Subject Category Classification Using Traditional Classifiers and LLM**  
  • Created a novel dataset and built some classification models to perform a comparative analysis among the models.  
  **Language:** Python, **Platform:** Google Colab
