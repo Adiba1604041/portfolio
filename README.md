@@ -55,6 +55,10 @@ Southern University Bangladesh, Chattogram, Bangladesh
 • Adiba Ibnat Hossain, Md Sabir Hossain, "Freelancer Assistance Using Job Sequencing Algorithm", International Conference on Natural Science & Technology(ICNST 2019). Published in the book of abstracts.
 </div>
  <br>
+## Award  
+Research Mentorship Training Award  
+Got selected for a competitive research mentorship training program and awarded a $500 stipend  
+Organizer: Office of Student Engagement and Experiential Learning, Northern Illinois University  
 
 ##  Skills
  **✦ Multi-agent Framework :** Autogen  
