@@ -70,7 +70,7 @@ Organizer: Office of Student Engagement and Experiential Learning, Northern Illi
  **✦ Multi-agent Framework :** Autogen  
  <br>
 ##  Academic Projects  
-**◯AutoHall: A Hallucination-aware Autonomous Multi-agent System**  
+**◯AutoHall: A Hallucination-aware Autonomous Multi-agent System (In progress)**  
 • An autonomous multi-agent system that autonomously designs the agents, divides a task into subtasks, checks
 hallucination in the subtask result through feedback loop, modifies the discrepencies and passes the subtask result
 to the next agent. The aim of this work is to reduce hallucination propagation among the agents.  
