@@ -74,7 +74,8 @@ Organizer: Office of Student Engagement and Experiential Learning, Northern Illi
 • An autonomous multi-agent system that autonomously designs the agents, divides a task into subtasks, checks
 hallucination in the subtask result through feedback loop, modifies the discrepencies and passes the subtask result
 to the next agent. The aim of this work is to reduce hallucination propagation among the agents.  
-Framework: Autogen, Language: Python, IDE: VS code
+Framework: Autogen, Language: Python, IDE: VS code  
+
 **◯SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing**  
 • A dataset for identifying hallucinations in academic text at three levels of granularity: token, sentence, and paragraph.  
 Language: Python, IDE: VS code  
