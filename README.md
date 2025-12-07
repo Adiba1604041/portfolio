@@ -66,7 +66,7 @@ Organizer: Office of Student Engagement and Experiential Learning, Northern Illi
  **✦ Web Development :** HTML, CSS, PHP, Javascript, MySQL, Firebase, Flask  
  **✦ Database :** MySQL  
  **✦ Frameworks :** React Native, ReactJS  
- **✦ ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas 
+ **✦ ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas   
  **✦ Multi-agent Framework :** Autogen  
  <br>
 ##  Academic Projects  
