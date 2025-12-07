@@ -1,6 +1,6 @@
 # Hi, I'm Adiba Ibnat Hossain  
 <div style="text-align: justify;">
-I am a PhD student in Computer Science at Northern Illinois University. My research interest encompasses the fields of Natural Language Processing, Machine Learning and Data Science. I'm passionate in solving textual data-driven problems using Large Language Models. I enjoy exploring innovative technologies that can make a meaningful impact and bridge the gap between academic research and real-world applications.
+I am a PhD student in Computer Science at Northern Illinois University. My research interest encompasses the fields of Natural Language Processing, Machine Learning and Data Science. Currently I am working on hallucination in large language models, a key issue for building trustworthy generative AI systems. I'm passionate in solving textual data-driven problems using Large Language Models. I enjoy exploring innovative technologies that can make a meaningful impact and bridge the gap between academic research and real-world applications.
 </div>  
 <br>
 
