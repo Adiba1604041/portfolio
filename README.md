@@ -33,19 +33,19 @@ Southern University Bangladesh, Chattogram, Bangladesh
 <br> 
 ##  Publications  
 <div style="text-align: justify;">
- • Adiba Ibnat Hossain, Sagnik Ray Choudhury and Hamed Alhoori, ” SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing”, Accepted in International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025 (IJCNLP-AACL-2025) 
+ • Adiba Ibnat Hossain, Sagnik Ray Choudhury and Hamed Alhoori, ``SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing”, Accepted in International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025 (IJCNLP-AACL-2025) 
 <a href="https://aclanthology.org/2025.ijcnlp-long.70/" target="_blank">Link</a>
 </div>   
  <br>  
 <div style="text-align: justify;">
- • Adiba Ibnat Hossain, Miftahul Jannat Mokarrama and Hamed Alhoori , ”Quantifying Contextual Hallucinations in NLP Research Papers Before and After the LLM Era”, Accepted in  2nd International Workshop on Artificial Intelligence for the Science of Science (AI4SciSci'25) colocated with JCDL'25. </div>   
+ • Adiba Ibnat Hossain, Miftahul Jannat Mokarrama and Hamed Alhoori , ``Quantifying Contextual Hallucinations in NLP Research Papers Before and After the LLM Era”, Accepted in  2nd International Workshop on Artificial Intelligence for the Science of Science (AI4SciSci'25) colocated with JCDL'25. </div>   
  <br>   
 <div style="text-align: justify;">
- • Adiba Ibnat Hossain and Asaduzzaman, ” Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(Ltr) Algorithm”, In 2022 IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), pages 227–232, 2022. <a href="https://ieeexplore.ieee.org/document/10151362" target="_blank">Link</a>
+ • Adiba Ibnat Hossain and Asaduzzaman, ``Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(Ltr) Algorithm”, In 2022 IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), pages 227–232, 2022. <a href="https://ieeexplore.ieee.org/document/10151362" target="_blank">Link</a>
  </div>   
  <br>
 <div style="text-align: justify;">
- • Adiba Ibnat Hossain, Sabitri Sikder, Annesha Das, and Ashim Dey, ”Applying Machine Learning Classifiers on ECG Dataset for Predicting Heart Disease”, In 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), pages 1–6, 2021. <a href="https://ieeexplore.ieee.org/document/9528169" target="_blank">Link</a>
+ • Adiba Ibnat Hossain, Sabitri Sikder, Annesha Das, and Ashim Dey, ``Applying Machine Learning Classifiers on ECG Dataset for Predicting Heart Disease”, In 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), pages 1–6, 2021. <a href="https://ieeexplore.ieee.org/document/9528169" target="_blank">Link</a>
 </div>   
 <br>  
 
@@ -59,9 +59,12 @@ Southern University Bangladesh, Chattogram, Bangladesh
  <br>
  
 ## Award  
-**Research Mentorship Training Award**  
+**Research Mentorship Training Award-2025**  
 Got selected for a competitive research mentorship training program and awarded a $500 stipend  
 Organizer: Office of Student Engagement and Experiential Learning, Northern Illinois University  
+
+**Diversity and Inclusion Subsidy Awards at IJCNLP-AACL 2025**
+Registration Fee and ACL Membership Fee Waiver
 
 ##  Skills
  **✦ Programming Languages :** C, C++, Java, Python  
