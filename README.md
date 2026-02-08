@@ -63,7 +63,7 @@ Southern University Bangladesh, Chattogram, Bangladesh
 Got selected for a competitive research mentorship training program and awarded a $500 stipend  
 Organizer: Office of Student Engagement and Experiential Learning, Northern Illinois University  
 
-**Diversity and Inclusion Subsidy Awards at IJCNLP-AACL 2025**
+**Diversity and Inclusion Subsidy Awards at IJCNLP-AACL 2025**  
 Registration Fee and ACL Membership Fee Waiver
 
 ##  Skills
