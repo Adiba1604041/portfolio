@@ -34,7 +34,7 @@ Southern University Bangladesh, Chattogram, Bangladesh
 ##  Publications  
 <div style="text-align: justify;">
  • Adiba Ibnat Hossain, Sagnik Ray Choudhury and Hamed Alhoori, ” SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing”, Accepted in International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025 (IJCNLP-AACL-2025) 
-<a href="[https://ieeexplore.ieee.org/document/10151362](https://aclanthology.org/2025.ijcnlp-long.70/)" target="_blank">Link</a>
+<a href="https://aclanthology.org/2025.ijcnlp-long.70/" target="_blank">Link</a>
 </div>   
  <br>  
 <div style="text-align: justify;">
