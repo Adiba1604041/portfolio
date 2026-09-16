@@ -1,4 +1,6 @@
 title: Adiba Ibnat Hossain
-logo: /assets/images/dp5.jpeg
-email: hossainadiba123@gmail.com
-theme: jekyll-theme-minimal
+description: Research portfolio of Adiba Ibnat Hossain
+url: "https://adiba1604041.github.io"
+baseurl: "/portfolio"
+exclude:
+  - README.md

@@ -1,130 +1,39 @@
-# Hi, I'm Adiba Ibnat Hossain  
-<div style="text-align: justify;">
-I am a PhD student in Computer Science at Northern Illinois University, specializing in Natural Language Processing, Machine Learning, and Data Science. My current research focuses on hallucination in large language models, a critical challenge for developing trustworthy generative AI systems. I am passionate about solving text-driven problems with advanced language models and exploring innovative technologies that bridge the gap between academic research and real-world applications.  
-</div>  
-<br>
+# Adiba Ibnat Hossain — Portfolio
 
-## Education
-**Northern Illinois University**  
-PhD in Computer Science (August 2024 - Present)  
+A responsive, multi-page academic portfolio designed for GitHub Pages.
 
-**Chittagong University of Engineering & Technology (CUET)**  
-B.Sc. in Computer Science and Engineering (August 2022)  
-<br> 
-##  Work Experience 
-**Research Assistant**  
-Summer 2025  
-DATA Laboratory  
-Department of Computer Science,   
-Northern Illinois University, Dekalb, Illinois  
+## Pages
 
-**Teaching Assistant**  
-Fall 2024, Spring 2025, Fall 2025  
-Department of Computer Science,  
-Northern Illinois University, Dekalb, Illinois  
+- `index.html` — landing page
+- `research.html` — research interests and methodology
+- `publications.html` — searchable/filterable publications
+- `experience.html` — education, work, and awards
+- `projects.html` — filterable research/software projects
+- `contact.html` — email, GitHub, LinkedIn, and mailto contact form
 
-**Lecturer on Study Leave (Dec 4, 2022– Present)**  
-Department of Computer Science and Engineering,  
-Premier University, Chattogram, Bangladesh  
+## Interactive features
 
-**Lecturer (September 5, 2022– December 2, 2022)**  
-Department of Computer Science and Engineering,  
-Southern University Bangladesh, Chattogram, Bangladesh  
-<br> 
-##  Publications  
-<div style="text-align: justify;">
- • Adiba Ibnat Hossain, Sagnik Ray Choudhury and Hamed Alhoori, ``SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing”, Accepted in International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025 (IJCNLP-AACL-2025) 
-<a href="https://aclanthology.org/2025.ijcnlp-long.70/" target="_blank">Link</a>
-</div>   
- <br>  
-<div style="text-align: justify;">
- • Adiba Ibnat Hossain, Miftahul Jannat Mokarrama and Hamed Alhoori , ``Quantifying Contextual Hallucinations in NLP Research Papers Before and After the LLM Era”, Accepted in  2nd International Workshop on Artificial Intelligence for the Science of Science (AI4SciSci'25) colocated with JCDL'25. </div>   
- <br>   
-<div style="text-align: justify;">
- • Adiba Ibnat Hossain and Asaduzzaman, ``Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(Ltr) Algorithm”, In 2022 IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), pages 227–232, 2022. <a href="https://ieeexplore.ieee.org/document/10151362" target="_blank">Link</a>
- </div>   
- <br>
-<div style="text-align: justify;">
- • Adiba Ibnat Hossain, Sabitri Sikder, Annesha Das, and Ashim Dey, ``Applying Machine Learning Classifiers on ECG Dataset for Predicting Heart Disease”, In 2021 International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI), pages 1–6, 2021. <a href="https://ieeexplore.ieee.org/document/9528169" target="_blank">Link</a>
-</div>   
-<br>  
+- responsive mobile navigation
+- automatic active-page navigation state
+- light/dark theme toggle saved in `localStorage`
+- scroll reveal animations with reduced-motion support
+- publication search and year filters
+- project category filters
+- expandable project details
+- back-to-top control
+- static contact form that opens an email draft (no backend required)
 
-## Poster Presentation  
-<div style="text-align: justify;">
-• Adiba Ibnat Hossain, Hamed Alhoori, "From Pre-LLM to Post-LLM: A Quantitative Study of Hallucination in Research Papers Before and After the LLM Era", Midwest Speech and Language Days 2025 (MSLD 2025) </div>
-<br>
-<div style="text-align: justify;">
-• Adiba Ibnat Hossain, Md Sabir Hossain, "Freelancer Assistance Using Job Sequencing Algorithm", International Conference on Natural Science & Technology(ICNST 2019). Published in the book of abstracts.
-</div>
- <br>
- 
-## Award  
-**Research Mentorship Training Award-2025**  
-Got selected for a competitive research mentorship training program and awarded a $500 stipend  
-Organizer: Office of Student Engagement and Experiential Learning, Northern Illinois University  
+## Deploy on GitHub Pages
 
-**Diversity and Inclusion Subsidy Awards at IJCNLP-AACL 2025**  
-Registration Fee and ACL Membership Fee Waiver
+1. Copy all files in this folder into the root of the `portfolio` repository.
+2. Keep `assets/images/dp5.jpeg` (the current profile photo) at that exact path.
+3. Commit and push the changes to the `main` branch.
+4. In GitHub, open **Settings → Pages**.
+5. Under **Build and deployment**, choose **Deploy from a branch** and select `main` / `(root)` if it is not already configured.
+6. The site should be available at `https://adiba1604041.github.io/portfolio/` after GitHub Pages rebuilds it.
 
-##  Skills
- **✦ Programming Languages :** C, C++, Java, Python  
- **✦ Web Development :** HTML, CSS, PHP, Javascript, MySQL, Firebase, Flask  
- **✦ Database :** MySQL  
- **✦ Frameworks :** React Native, ReactJS  
- **✦ ML/NLP Libraries :** BeautifulSoup, NLTK, BNLTK, scikit-learn, matplotlib, pandas   
- **✦ Multi-agent Framework :** Autogen  
- <br>
-##  Academic Projects  
-**◯AutoHall: A Hallucination-aware Autonomous Multi-agent System (In progress)**  
-• An autonomous multi-agent system that autonomously designs the agents, divides a task into subtasks, checks
-hallucination in the subtask result through feedback loop, modifies the discrepencies and passes the subtask result
-to the next agent. The aim of this work is to reduce hallucination propagation among the agents.  
-Framework: Autogen, Language: Python, IDE: VS code  
+## Editing content
 
-**◯SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing**  
-• A dataset for identifying hallucinations in academic text at three levels of granularity: token, sentence, and paragraph.  
-Language: Python, IDE: VS code  
+All content is plain HTML. The shared styling is in `assets/css/styles.css`, and interactions are in `assets/js/script.js`.
 
-**◯Quantifying Contextual Hallucinations in NLP Research Papers Before and After the LLM Era**  
-• Detected and analyzed context inconsistency, a type of faithfulness hallucination in research papers across two distinc periods: before the advent of LLMs and after their integration.  
-Language: Python, IDE: VS code  
-
- **◯ Research Paper Subject Category Classification Using Traditional Classifiers and LLM**  
- • Created a novel dataset and built some classification models to perform a comparative analysis among the models.  
- **Language:** Python, **Platform:** Google Colab
- 
- **◯ A Bangla Text Search Engine Using Pointwise Approach of Learn to Rank(LtR) Algorithm**  
- • A web application that provides search result of a user query in Bangla in a particular ranked order. This project is
- a combination of ML, NLP, Web crawling. Applied the Point-wise Approach of Learn to Rank Algorithm instead of
- using the conventional BM25 function.  
- **Language:** Python, HTML, CSS, **DB:** MySQL **IDE:** PyCharm **Others:** Flask API, Google Colab  
- 
- **◯ Heart Disease Prediction Using Machine Learning Algorithms**  
- • Applied machine learning classifiers to implement a heart disease prediction model using ECG dataset.  
- 
- **◯ Website for High School Science Contents**  
- • Awebsite for high school students who can easily get guideline to learn science topics with the help of the uploaded
- contents and interact through the comment section.  
- **Language:** HTML, CSS, PHP, **DB:** MySQL **Platforms:** Atom, XAMPP  
- 
- **◯ Azheimer’s Disease Prediction App (Android Application)**  
- • An android app that predicts the existence of alzheimer’s disease based on user’s symptoms.
- IDE: VS code, Jupyter Notebook Framework: React Native DB: Firebase
- Emergency Alarm for Elderly People (Android Application)
- • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.  
- **Language:** Java, **IDE:** Android Studio  
- 
- **◯ Emergency Alarm for Elderly People (Android Application)**  
- • An android app that gives alarm to the favourite contacts of an elderly person by means of shake detection.  
- **Language:** Java, **IDE:** Android Studio
- <br>
-
-## Supervised Projects  
- ◯ CONFER: A Blood Donation Recommendation System  
- 
- ◯ Leveraging Transformer Language Models for Title Generation in Scientific Articles  
- 
- ◯ Insights into Opinion Mining in Bengali: A Deep Learning Approach to Multi-class Sentiment Analysis of Facebook Comments  
- 
- ◯ A Website to Facilitate Driver Hiring Process
-
+If you add a new page, copy the header/footer from an existing page and add the new link to the `.nav-links` list on every page.
